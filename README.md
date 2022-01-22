@@ -1,0 +1,3 @@
+- Hi, I’m @Garsash
+- I’m interested in game development and 3d moddeling
+- I’m currently learning uniity and blender
