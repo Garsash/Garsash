@@ -1,3 +1,4 @@
 - Hi, I’m @Garsash
-- I’m interested in game development and 3d moddeling
-- I’m currently learning uniity and blender
+- I’m a games developer currently working in godot
+- Im currently working on a magic mod for Minecraft
+- I have skills in python, C# and java 
