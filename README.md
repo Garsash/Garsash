@@ -1,4 +1,1 @@
 - Hi, I’m @Garsash
-- I’m a games developer currently working in godot
-- Im currently working on a magic mod for Minecraft
-- I have skills in python, C# and java 
